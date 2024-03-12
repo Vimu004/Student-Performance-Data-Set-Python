@@ -2,7 +2,7 @@
 Student achievement in secondary education of two Portuguese schools.
 
 ## Project Overview
-This repository contains the project proposal and related materials for the Student Performance Analysis in Portuguese Secondary Education. The project aims to utilize machine learning techniques to analyze factors influencing student achievement and develop predictive models.
+This repository contains the related materials for the Student Performance Analysis in Portuguese Secondary Education. The project aims to utilize machine learning techniques to analyze factors influencing student achievement and develop predictive models.
 
 ## Project Structure
 The project is organized with the following files:
